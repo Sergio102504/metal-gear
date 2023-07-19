@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.css";
-import list from "../style/list.css";
+import  "../style/list.css";
 import informacion from "../Informacion.json";
 import React, { useState } from "react";
 import Modal from "react-bootstrap/Modal";

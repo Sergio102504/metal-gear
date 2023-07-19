@@ -5,7 +5,6 @@ import { Container } from "react-bootstrap";
 import '../style/login.css'
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import Carousel from 'react-bootstrap/Carousel';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 

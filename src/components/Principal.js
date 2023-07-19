@@ -2,16 +2,14 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.css";
 import "../style/Principal.css";
-import { useNavigate } from "react-router-dom";
 import Carousel from "react-bootstrap/Carousel";
-import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
 export default function App() {
-  const navigate = useNavigate();
+  //const navigate = useNavigate();
   return (
     <>
       <div className="principal">
@@ -22,7 +20,7 @@ export default function App() {
               <img
                 className="d-block w-100"
                 src="https://media.vandal.net/m/7-2021/20217512111167_1.jpg"
-                alt="Image One"
+                alt="Imagen1"
               />
               <Carousel.Caption>
                 
@@ -32,7 +30,7 @@ export default function App() {
               <img
                 className="d-block w-100"
                 src="https://assetsio.reedpopcdn.com/thumbnail_METAL-GEAR-SOLID-2.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp"
-                alt="Image Two"
+                alt="Imagen Two"
               />
               <Carousel.Caption>
               </Carousel.Caption>
@@ -41,7 +39,7 @@ export default function App() {
               <img
                 className="d-block w-100"
                 src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/05/metal-gear-solid-collection-3042658.jpg"
-                alt="Image One"
+                alt="Imagen three"
               />
               <Carousel.Caption>
                 <h3>Metal gear solid</h3>
@@ -107,7 +105,7 @@ export default function App() {
         </div>
         
         <div className="cerrar-sesion">
-        <Link className="btn btn-dark" to="/Login">Cerrar Sesion</Link>
+        <Link className="btn btn-dark" to="/">Cerrar Sesion</Link>
       </div>
       </div>
       
