@@ -1,0 +1,46 @@
+
+body{
+    
+
+}
+
+.contenedor-principal{
+    background-image: url(../img/Login-image.jpg) ;
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.contenedor-login{
+    
+    
+    margin-top: 80px;
+    justify-content: center;
+    width: 100%;
+    height: 700px;
+    border-radius: 2px solid;
+
+
+}
+
+h1{
+    text-align: center;
+    font-family: Monaco;
+
+}
+
+h3{
+        text-align: center;
+    font-family: Monaco;
+
+}
+
+
+
+

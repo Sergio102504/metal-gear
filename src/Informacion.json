@@ -1,0 +1,119 @@
+{
+    "personajes": [
+      {
+        "id": "1",
+        "nombre":"Big Boss",
+        "edad": 79,
+        "Descripcion": "Big Boss, de nombre real John, y también conocido como Jack, Naked Snake, Big Boss, Saladino, o simplemente Snake, fue el nombrado mejor soldado del siglo XX, quien evitó varios conflictos nucleares, luchó contra las amenazas de Metal Gear y lideró ciertas fuerzas especiales como FOXHOUND, grupos militares independientes como Militaires Sans Frontières e incluso naciones completas como Outer Heaven o Zanzibar Land.",
+        "Estado": "Muerto",
+        "imagen": "https://images.uncyclomedia.co/inciclopedia/es/thumb/d/d6/Big_boss.jpg/300px-Big_boss.jpg"
+
+      },
+      {
+        "id":2,
+        "nombre":"Solid Snake",
+        "edad": 42,
+        "Descripcion": "Solid Snake, de nombre real David, también conocido como Old Snake, y brevemente como Iroquois Pliskin, o simplemente Snake, fue un antiguo espía, soldado de operaciones especiales y mercenario. Tenía un coeficiente intelectual de 180 y hablaba seis idiomas con fluidez, incluidos el inglés, el ruso y el francés. La fama que alcanzó gracias a sus hazañas militares le valió apodos como Soldado Legendario, Héroe Legendario y El hombre que hace posible lo imposible .Snake fue uno de los niños nacidos del proyecto Les Enfants Terribles de 1972. Fue creado como un clon del soldado mundialmente conocido Big Boss, junto con sus hermanos Liquid Snake y Solidus Snake.",
+        "Estado": "Muerto",
+        "imagen":"https://static.tvtropes.org/pmwiki/pub/images/solidsnake.png"
+      },
+      {
+        "id":3,
+        "nombre":"Liquid Snake",
+        "edad": 23,
+        "Descripcion": "Liquid Snake (リキッド・スネーク Rikiddo Sunēku), comúnmente llamado Liquid, siendo su nombre real Eli Doe Sears, es el gemelo y archinemésis de Solid Snake, así como comandante de campo de FOXHOUND y de los Genome Soldiers. Junto con Solid Snake y Solidus Snake, es uno de los tres hermanos genéticamente creados de las muestras de las células de Big Boss, a partir del proyecto llamado Les Enfants Terribles. Él cree ser inferior a Solid Snake, debido a que piensa que él fue el que recibió los genes recesivos. Sin embargo, se revela que el que adquiere los genes recesivos es Solid Snake, y quien posee los genes dominantes es Liquid Snake. Como resultado de esto, y de que Solid Snake fue quien eliminó a Big Boss, Liquid le guarda un gran rencor a Solid, y desea derrotarlo en combate para así poder reclamar su derecho de nacimiento. Él es prácticamente igual a Solid Snake, excepto por el color de piel y cabello y por tener un acento británico.",
+        "Estado": "Muerto",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Liquid_Snake.png/150px-Liquid_Snake.png"
+      
+      },
+      {
+        "id":"4",
+        "nombre":"Naomi Hunter",
+        "edad": 25,
+        "Descripcion": "Naomi Hunter (197X-2014) nació en Rodesia, África. Allí vivió con su familia durante la Guerra Civil ya que el pueblo estaba siendo controlado por los británicos. En ese entonces, un agente perteneciente a la unidad FOXHOUND llamado Gray Fox, asesinó a sus padres. Frank, al ver lo que había hecho no pudo asesinar a Naomi, y la adoptó como si ella hubiese sido siempre su hermana para aplacar su sentimiento de culpa.",
+        "Estado": "Muerto",
+        "imagen": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2b/Naomi_Hunter.jpg/800px-Naomi_Hunter.jpg"
+      },
+      {
+        "id":"5",
+        "nombre":"Mei Ling",
+        "edad": 25,
+        "Descripcion": "Mei Ling (en japonés 美玲,Mei Rin?) fue parte del equipo de apoyo de Solid Snake durante el Incidente de Shadow Moses. Mei Ling siempre había querido ser un piloto de avión después de que se enamoró de estos en una película. Se especializó en aerodinámica en el Colegio, con la intención de alistarse en el Ejército para llevar a cabo Evaluaciones de Daños en Batalla (ya que no quería matar a las personas). Sus sueños de ser piloto de combate fueron aplastados cuando luego se enteró de que los pilotos no hacían solo Evaluación de daños de batalla. Algún tiempo después de graduarse en el MIT, dirigió su talento hacia el campo de la tecnología, donde su habilidad floreció. Se especializó en el procesamiento de imágenes y datos, permitiéndole ser la creadora del Radar Soliton y del Codec.",
+        "Estado": "Viva",
+        "imagen":"https://i.pinimg.com/474x/e0/e2/61/e0e26144bd2df61169b30c787f3a04fd--yoji-shinkawa-kojima-productions.jpg"
+      },
+      {
+        "id":"6",
+        "nombre":"Meryl Silverburgh",
+        "edad": 25,
+        "Descripcion": "Meryl Silverburgh nació en 1987, hija de Roy Campbell y adoptada por el hermano del anterior, Matt Campbell Fue la comandante del nuevo FOXHOUND denominado Rat Patrol 01. Antes de empezar a dirigir este grupo, Meryl era conocida por estar involucrada en el Incidente de Shadow Moses, donde ayudó al legendario héroe Solid Snake. Meryl piensa que su padre es Matt Campbell, pero este era realmente su tío, y murió al poco de nacer ella en la guerra del Golfo. Su padre biológico es Roy Campbell, aunque ella cree que este es su tío.",
+        "Estado": "Viva",
+        "imagen":"https://www.giantbomb.com/a/uploads/square_medium/7/71263/2504468-merrylmgs4-2.jpg"
+      },
+      {
+        "id":"7",
+        "nombre":"Otacon(Hal Emmerich)",
+        "edad": 25,
+        "Descripcion": "Hal Emmerich, también conocido como Otacon, hijo de los científicos Huey Emmerich y Strangelove, fue un investigador de ArmsTech y jefe de desarrollo del proyecto de Metal Gear REX Junto con Solid Snake fundó la ONG conocida como Philanthropy y más tarde luchó para destruir a los Patriots.Era un gran fan de las películas de animación japonesa (anime), e incluso tomó su apodo de Otacon de la convención anual estadounidense “Otaku Convention”. También fue cercano a Solid Snake y Sniper Wolf, y posteriormente tomaría a Sunny Gurlukovich como su propia hija.",
+        "Estado": "Vivo",
+        "imagen":"https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/07/ot-fi.jpg"
+      },
+      {
+        "id":"8",
+        "nombre":"Donald Anderson",
+        "edad": 25,
+        "Descripcion": "Donald Anderson (1939-2005), también conocido como Sigint, nació en Nashville, Tennesse, y en algún momento de su vida se unió a la unidad FOX, para posteriormente darle apoyo remoto a Naked Snake durante la Operación Snake Eater en 1964.En 2005, fue tomado como rehén junto a Kenneth Baker, presidente de ArmsTech, por el grupo terrorista Sons of Big Boss. Fue asesinado en el Incidente de Shadow Moses por Revolver Ocelot, cosa que obligó a Decoy Octopus a hacerse pasar por él para engañar a Solid Snake y obligarlo a colaborar con el plan de Liquid Snake.",
+        "Estado": "Muerto",
+        "imagen":"https://assets.mycast.io/actor_images/actor-donald-anderson-metal-gear-667624_large.jpg?1675002524"
+      },
+      {
+        "id":"9",
+        "nombre":"Kenneth Baker",
+        "edad": 25,
+        "Descripcion": " es el presidente de la compañía fabricante de armas ArmsTech, que colaboró con el Pentágono en el desarrollo de Metal Gear REX.Cuando estaba en la isla de Shadow Moses realizando pruebas del REX, fue capturado, junto al jefe DARPA, por un grupo terrorista autodenominados Sons of Big Boss. Baker esconde el disco de datos del Metal Gear REX y confía la tarjeta de PAL a Meryl Silverburgh. Consiguió que Psycho Mantis no leyera en su mente los códigos de activación de las cabezas nucleares gracias a los implantes quirúrjicos cerebrales, pero los acabó revelando cuando fue torturado por Revolver Ocelot.Entró en contacto con Solid Snake, que estaba allí en una misión de infiltración en solitario, contrajo el virus FOXDIE y murió víctima del consiguiente ataque cardíaco mientras balbuceaba:...bastardos del Pentágono...¡Ellos han...han han acabado haciéndolo...!Ellos...le han...han...usado...pa...para...uuuhhh...",
+        "Estado": "Muerto",
+        "imagen":"https://cdnb.artstation.com/p/assets/images/images/051/408/711/large/jung-yoon-render01-copy.jpg?1657211342"
+      },
+      {
+        "id":"10",
+        "nombre":"Revolver Ocelot",
+        "edad": 25,
+        "Descripcion": "Un enigmático y hábil pistolero y espía,Experto en el manejo de revólveres Revolver Ocelot, de nombre verdadero Adamska (Адамска, en ruso), de nombre en clave ADAM, y también llamado como Shalashaska, Liquid Ocelot o simplemente Ocelot fue uno de los miembros fundadores de Los Patriots, un aliado de Big Boss por toda su vida y un prominente agente encubierto que manipuló a varios grupos militares durante décadas.Experto en extracción de información a través de torturas y en el uso de revólveres, además de el uso de la psicoterapia e hipnosis, Ocelot fue un soldado multidisciplinario y extraordinario en todas sus aptitudes, parte del legado de sus padres The Boss y The Sorrow, dos de los mejores soldados del siglo XX.Mientras formaba parte vital de conflictos como la Operación Snake Eater, el Incidente Phantom Pain, el Incidente de Shadow Moses y el Incidente de Manhattan, Ocelot se relacionó personalmente con todos los individuos conocidos como Snake, y especialmente con Solid Snake llevó una dura rivalidad hasta su muerte durante su Insurrección en 2014.",
+        "Estado": "Muerto",
+        "Apariciones": "Metal Gear Solid, Metal Gear Solid 2 ,Metal Gear Solid 3 ,Metal Gear Solid 4",
+        "imagen":"https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-phantom-pain/c/c0/MGSV.PS4.1080P.OCELOT_SUB_00.HD_SCREENCAPS.1.jpg"
+      },
+      {
+        "id":"11",
+        "nombre":"Gray Foxx",
+        "edad": 25,
+        "Descripcion": "Gray Fox, Null, y Garganta Profunda fueron los nombres en clave de Frank Jaeger o Frank Hunter, agente de FOX y posteriormente FOXHOUND. Fue el único miembro de FOXHOUND en obtener el nombre en código de Fox, la condecoración más alta de la Unidad (Roy Campbell, que alcanzó el nombre en código “Fox” no cuenta, pues él no era un agente de campo activo). Gray Fox era el mejor amigo de Solid Snake después de la operación Intrude N313, pero su lealtad era hacia Big Boss, forzado a luchar contra Snake durante la sublevación Zanzibar Land.Sobrevivió a sus lesiones durante su batalla con Solid y fue equipado con un exoesqueleto accionado y una terapia genética por la Dra. Clark. Se enfrentó a Snake como una fuerza neutral en Shadow Moses antes de morir en las manos de Liquid Snake en el Incidente de Shadow Moses.a",
+        "Estado": "Muerto",
+        "imagen":"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/09/Metal-Gear-Gray-Fox-Featured-Image.jpg"
+      },
+      {
+        "id":"12",
+        "nombre":"Psyco Mantis",
+        "edad": 25,
+        "Descripcion": "Psycho Mantis, también conocido con el nombre en clave Tretij Rebenok, ruso para Tercer Niño, fue un soldado con capacidades psíquicas del Ejército de Eli, y posteriormente del FBI y FOXHOUND. Poseyó grandes habilidades psicoquinéticas y fue capaz de leer las mentes de sus enemigos.",
+        "Estado": "Muerto",
+        "imagen":"https://cdna.artstation.com/p/assets/images/images/053/067/628/large/marc-lee-insta-square-sqr7.jpg?1661345200"
+      },
+      {
+        "id":"13",
+        "nombre":"Vulcan Raven",
+        "edad": 25,
+        "Descripcion": "Vulcan Raven es uno de los jefes finales del juego Metal Gear Solid. Miembro de FOXHOUND que se encuentra bajo órdenes Liquid Snake, su increíble tamaño, su fuerza y destreza son casi leyenda. De una personalidad profundamente filosófica y de gran corpulencia física. Es experto en todo tipo de armamento pesado y vehículos de combate. Se rumorea que es una especie de Chamán Esquimal capaz de hablar con los cuervos, e incluso posiblemente de ver lo que ellos ven. Además, es licenciado en la universidad de Alaska. Posee un valor formidable y no se doblega ante nada, cosa que podemos deducir del hecho de que no se arrodilló ante el enemigo que le derrotó (Solid Snake), sino que pronunció sus últimas palabras de pie, sin dar un signo de rendición.Durante el primer duelo de Vulcan Raven contra Solid Snake, maneja un tanque que es destruido por Solid Snake. Tras este encuentro, decide convertirlo en su presa personal.",
+        "Estado": "Muerto",
+        "imagen":"https://i.kym-cdn.com/photos/images/original/000/544/556/cfe.jpg"
+      },
+      {
+        "id":"14",
+        "nombre":"Sniper Wolf",
+        "edad": 25,
+        "Descripcion": "Sniper Wolf fue la francotiradora de élite del grupo de operaciones especiales FOXHOUND que participó en la revuelta del 2005 en la isla de Shadow Moses, junto con la Nueva Generación de Fuerzas Especiales.",
+        "Estado": "Muerto",
+        "imagen": "https://areajugones.sport.es/wp-content/uploads/2022/02/metal-gear-solid.jpg"
+      }
+    ]
+  }

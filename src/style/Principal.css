@@ -1,0 +1,49 @@
+.principal{
+    width: auto;
+    height: auto;
+
+}
+
+.carrousel{
+    padding-left: 10px;
+    padding-top: 30px;
+    margin-left: 57px;
+    float: left;
+    position: relative;
+    width: 40%;
+    height: auto;
+    
+
+
+}
+
+.tarjetas{
+ 
+        padding-top: 15px;
+        padding-left: 10px;
+        margin-left: 10px;
+        float: right;
+        width: 50%;
+        height: 400px;
+       
+    
+
+}
+
+.personajes{
+
+    margin-top: 20px;
+	display:flex;
+	width: 100%;
+	height: 200px;
+    padding-top: 30px;
+}
+
+.cerrar-sesion{
+    position: absolute; 
+    bottom: 0px; 
+    right: 0px;
+    top: 25px;
+
+
+}
